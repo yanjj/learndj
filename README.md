@@ -7,3 +7,6 @@ jfeoiwjfoiewjfiwejfiowjfo
 fjoiewjfoiewjfoiewjfiwejfiewjfoiewjf
 fejwoifjoiewjfiewjfowfjowejfoiwoif
 
+
+add for test in vmware
+
